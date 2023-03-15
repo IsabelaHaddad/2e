@@ -1,16 +1,20 @@
-
-
 .cabecalho
 {
-    background-color:
+    background-color: aqua
 }
-
+.imagem{
+    width: 20px;
+}
 p {
-    font-size: 16px;
+    font-size: 18px
 }
 .paragrafo1 {
-    font-size: 20px;
+ font-size:30px
 }
-.divisao {
-    background-color: aqua;
+.paragrafos {
+    font-size: 16px
+}
+.lista {
+    display: inline-block;
+    margin: 0 16px
 }
