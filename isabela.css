@@ -2,6 +2,12 @@
 {
     background-color: aqua
 }
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: blueviolet;
+}
 .imagem{
     width: 20px;
 }
