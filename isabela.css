@@ -10,6 +10,7 @@ h2 {
 }
 .imagem{
     width: 20px;
+    background-image: linear-gradient(#383d58);
 }
 p {
     font-size: 18px
@@ -23,4 +24,7 @@ p {
 .lista {
     display: inline-block;
     margin: 0 16px
+}
+footer{
+    background-color: black;
 }
