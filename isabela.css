@@ -1,3 +1,4 @@
+
 .cabecalho
 {
     background-color: aqua
@@ -27,4 +28,6 @@ p {
 }
 footer{
     background-color: black;
+    padding: 15px 0
+    display:grid
 }
